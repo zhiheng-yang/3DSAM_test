@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="jliu5@fs4.das6.science.uva.nl:22 (5)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="jliu5@fs4.das6.science.uva.nl:22 (5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/var/scratch/jliu5/Medica/3DSAM_test" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
